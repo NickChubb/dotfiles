@@ -2,6 +2,12 @@
 
 My dotfiles & config files I am currently using
 
+## Info
+
+.zshrc2 is my old zsh config file using PowerLevel10k
+
+.zshrc is my new zsh config with starship
+
 ## Links
 
 iTerm2 Theme: https://github.com/sindresorhus/iterm2-snazzy
