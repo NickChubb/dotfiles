@@ -1,1 +1,14 @@
-/Users/nick/.config/starship.toml
+# ~/.config/starship.toml
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+
+[directory]
+style = "bold cyan"
+
+[git_branch]
+symbol = " "
+
+[nodejs]
+style = "bold green"
