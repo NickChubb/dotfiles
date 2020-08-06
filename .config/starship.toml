@@ -1,7 +1,1 @@
-# ~/.config/starship.toml
-
-[directory]
-style = "bold cyan"
-
-[nodejs]
-style = "bold green"
+/Users/nick/.config/starship.toml
