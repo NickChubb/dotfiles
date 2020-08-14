@@ -7,7 +7,7 @@ export EDITOR="$VISUAL"
 
 # Path to oh-my-zsh install
 export ZSH="$HOME/.oh-my-zsh"
-source /usr/local/share/antigen/antigen.zsh
+source $HOME/antigen.zsh
 
 antigen use oh-my-zsh
 

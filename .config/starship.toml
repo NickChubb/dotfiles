@@ -10,5 +10,8 @@ style = "bold cyan"
 [git_branch]
 symbol = " "
 
+[hostname]
+trim_at = ""
+
 [nodejs]
 style = "bold green"
