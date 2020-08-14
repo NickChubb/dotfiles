@@ -11,6 +11,7 @@ style = "bold cyan"
 symbol = " "
 
 [hostname]
+prefix = "@"
 trim_at = ""
 
 [nodejs]
